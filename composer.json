@@ -40,7 +40,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "owen-it/laravel-auditing": "dev-master",
+        "owen-it/laravel-auditing": "^7.0",
         "elasticsearch/elasticsearch": "6.*"
     },
     "autoload": {
