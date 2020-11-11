@@ -25,7 +25,7 @@ use OwenIt\Auditing\Models\Audit as AuditModel;
 use Ramsey\Uuid\Uuid;
 
 class ElasticSearch implements AuditDriver
-{q
+{
     /**
      * @var string
      */
